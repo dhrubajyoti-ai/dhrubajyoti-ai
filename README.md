@@ -12,8 +12,3 @@
 🔭 Currently building **Agentic AI systems** at Infosys  
 🎓 Pursuing **M.Tech AI** at IIT Madras  
 ```
-
-## The badges
-Those colorful skill badges come from **[shields.io](https://shields.io)** — you can customize color, logo, and label freely. The format is:
-```
-https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO>
