@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Dhrubajyoti
 
-<!--
-**dhrubajyoti-ai/dhrubajyoti-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GenAI Developer | Agentic AI Systems Architect
 
-Here are some ideas to get you started:
+**Tech I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+🔭 Currently building **Agentic AI systems** at Infosys  
+🎓 Pursuing **M.Tech AI** at IIT Madras  
+```
+
+## The badges
+Those colorful skill badges come from **[shields.io](https://shields.io)** — you can customize color, logo, and label freely. The format is:
+```
+https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO>
