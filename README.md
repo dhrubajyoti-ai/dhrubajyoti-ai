@@ -11,4 +11,3 @@
 
 🔭 Currently building **Agentic AI systems** at Infosys  
 🎓 Pursuing **M.Tech AI** at IIT Madras  
-```
